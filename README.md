@@ -3,7 +3,7 @@
 Backend REST API para gestión de proyectos y tareas.
 Permite a los usuarios registrarse, autenticarse mediante JWT y administrar proyectos con sus respectivas tareas.
 
-Este proyecto fue desarrollado como práctica de arquitectura backend profesional usando Node.js, Express y PostgreSQL.
+Este proyecto fue desarrollado como práctica de arquitectura backend usando Node.js, Express y PostgreSQL.
 
 ---
 
@@ -70,7 +70,7 @@ Esta estructura sigue el patrón **MVC (Model-View-Controller)** para separar re
 Clonar el repositorio:
 
 ```
-git clone https://github.com/TU_USUARIO/project-management-api.git
+git clone https://github.com/Lesf0215X/project-management-api.git
 ```
 
 Entrar al proyecto:
